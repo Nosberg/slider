@@ -13,8 +13,6 @@ function slider() {
     let offset = 0;
 
 
-    // Слайдер сложный
-
     slidesField.style.width = 100 * slides.length + '%'; // Делаем размер в процентах в количестве слайдах * 100%
 
     slidesField.style.display = 'flex';
